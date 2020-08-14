@@ -81,6 +81,7 @@ p {
 }
 /* -------------------- LEFT SIDEBAR ---------------- */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    float: left;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -98,7 +99,7 @@ p {
     font-size: 36px;
 }
 /* -------------------- RIGHT SIDEBAR -------------------- */
-.benefits {
+ .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -134,7 +135,7 @@ p {
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
-    margin: 10px auto;
+    margin: 10px;
     max-width: 150px;
 }
 
