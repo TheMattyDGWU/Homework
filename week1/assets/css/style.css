@@ -42,7 +42,7 @@ body {
 }
 
 .menu {
-    float: right;
+    float:right;
     display:inline-block;
   }
 
@@ -109,8 +109,20 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-lead {
     margin-bottom: 32px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.benefit-brand {
+    margin-top: 34px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.benefit-cost {
+    margin-top: 60px;
     color: #ffffff;
     text-align: center;
 }
