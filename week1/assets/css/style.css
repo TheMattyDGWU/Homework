@@ -41,6 +41,11 @@ body {
     margin-left: 25px;
 }
 
+.menu {
+    float: right;
+    display:inline-block;
+  }
+
 a {
     color: #ffffff;
     text-decoration: none;
