@@ -42,8 +42,7 @@ body {
 }
 
 .menu {
-    float:right;
-    display:inline-block;
+    float:right; 
   }
 
 a {
